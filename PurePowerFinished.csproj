@@ -135,8 +135,10 @@
     <Content Include="assets\WinIcon.svg" />
     <Content Include="MainDesktop.css" />
     <Content Include="MainDesktop.html" />
+    <Content Include="MainDesktop.js" />
     <Content Include="MainMobile.css" />
     <Content Include="MainMobile.html" />
+    <Content Include="MainMoble.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
